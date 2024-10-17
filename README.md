@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emrah</h1>
-<h3 align="center">A passionate System | DevOps | Cloud engineer from the earth.</h3>
+<h3 align="center">A passionate DevOps and Cloud engineer from the earth.</h3>
 
 - 🔭 I’m currently looking to work for any DevOps projects. [Check out my Upwork profile:](https://www.upwork.com/freelancers/~014c6240f8bb9d8b57)
 
