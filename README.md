@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking to work for any DevOps projects. [Check out my Upwork profile:](https://www.upwork.com/freelancers/~014c6240f8bb9d8b57)
 
-- 💬 Ask me about **Windows Server, Azure, Azure Devops**
+- 💬 Ask me about **Server Administration, Azure, Azure Devops**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
